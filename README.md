@@ -1,10 +1,5 @@
 # Telegram Chat Checker - yeet17
 
-# Репозиторий - https://github.com/Scarry127/TelegramChatChecker
-# Репозиторий - https://github.com/Scarry127/TelegramChatChecker
-# Репозиторий - https://github.com/Scarry127/TelegramChatChecker
-# Репозиторий - https://github.com/Scarry127/TelegramChatChecker
-
 Telegram Chat Checker – это готовое к использованию приложение для проверки существования и активности Telegram-чатов и каналов. Программа автоматически определяет, существует ли указанный чат, извлекает число подписчиков и, если оно соответствует заданному минимальному порогу, отмечает чат как валидный. Валидные чаты при необходимости сохраняются в файл `valid.txt`.
 
 ---
